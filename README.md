@@ -45,7 +45,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 🎓 Atualmente estudo no *SENAI*
 - 💻 Estou aprendendo *Desenvolvimento de Sistemas*
 - 🎯 Meu objetivo é *Ser desenvolvedor Full Stack!*
-- 📚 Gosto de aprender sobre *Homebrew Development* 
+- 📚 Gosto de aprender sobre *Homebrew Development* https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white
 
 ---
 
