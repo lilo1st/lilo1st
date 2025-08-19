@@ -44,8 +44,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 - 🎓 Atualmente estudo no *SENAI*
 - 💻 Estou aprendendo *Desenvolvimento de Sistemas*
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
+- 🎯 Meu objetivo é *Ser desenvolvedor Full Stack!*
+- 📚 Gosto de aprender sobre *Ciências da Computação e Engenharia de Software*
 - ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
 
 ---
