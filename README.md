@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o *LILO1ST*
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End, Back-End UX e UI.
 
 ---
 
@@ -20,9 +20,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### ! Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
@@ -32,10 +29,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | **LAGUNA SCHOOL** | [🔗 Ver online](https://github.com/elipec8/Laguna-school.git) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| **Nome do Projeto 2** | [🔗 Ver online](https://github.com/Guiteog/guess-the-flag.git) | HTML / CSS / JS / GIT|
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
 ---
 
