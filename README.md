@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o *LILO1ST*
+# 👋 Olá! Eu sou o *Murillo Reis*
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End, Back-End UX e UI.
+Sou estudante de **Ciência da Computação** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End, Back-End UX e UI.
 
 ---
 
@@ -34,8 +34,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no *SENAI*
-- 💻 Estou aprendendo *Desenvolvimento de Sistemas*
+- 🎓 Atualmente estudo na *Universidade Cruzeiro do Sul*
+- 💻 Estou aprendendo *Ciência da Computação*
 - 🎯 Meu objetivo é *Ser desenvolvedor Full Stack!*
 - 📚 Gosto de aprender sobre 
 
