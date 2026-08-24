@@ -26,8 +26,8 @@ Sou estudante de **Ciência da Computação** e estou aprendendo sobre **GitHub*
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **LAGUNA SCHOOL** | [🔗 Ver online](https://github.com/elipec8/Laguna-school.git) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://github.com/Guiteog/guess-the-flag.git) | HTML / CSS / JS / GIT|
+| **LAGUNA SCHOOL** | [🔗 Ver online](https://github.com/elipec8/Laguna-school.git) | HTML / CSS / JS |
+| **Tech Day** | [🔗 Ver online](https://github.com/lilo1st/TechDay-Teste) | HTML / CSS |
 
 
 ---
