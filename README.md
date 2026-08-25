@@ -35,7 +35,7 @@ Sou estudante de **Ciência da Computação** e estou aprendendo sobre **GitHub*
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo na *Universidade Cruzeiro do Sul*
-- 💻 Estou aprendendo *Ciência da Computação*
+- 💻 Sou estudante de *Ciência da Computação*
 - 🎯 Meu objetivo é *Ser desenvolvedor Full Stack!*
 - 📚 Gosto de aprender sobre 
 
